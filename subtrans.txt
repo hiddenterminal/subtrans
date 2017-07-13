@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I am going to be “subbing” a few videos using existing subs from other-language sub files
+
+AKBINGO! 121226 218 - https://www.iruberleet.org/leetlp/index.php?ID=903urythg
+Notes: I used a Chinese sub-file as a template for this
+
+In Progress/Planned:
+AKBINGO! 120304 SP - This is a “special” episode, longer than normal
+
+Notes:
+Please share these files and in as much as you like
+You can contact me at hiddenterminal@protonmail.ch - Please use my PGP key included with this pack (and also here: https://raw.githubusercontent.com/hiddenterminal/subtrans/master/CF3D2A02.asc ) to encrypt your email to me and please include your own PGP key in your email so I can encrypt my replies to you
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCgAGBQJZZ82nAAoJEMa6j/vPPSoCtAoQAJnscRFuQwZDM3/D28iqr/hn
+D6UelugQ17YsulyeLww5aikGpdhSIYBDRY0Pf6yyMxKqie6jr/w9xGTDJdhF/Zt9
++D1YOP30H+UgMCMIbqFJbqhypY+7MNuYAbCmXvkEkvt2yZOlVzK/6KO9rJ01uQrc
+hFaklz9TEDoOuFJ3nDvpcCNYU4oM4yMAWOGu2aPuNY8l8aDB9M+uaR8Gs6mSn/bd
+gPjMVZ/lyou4M6sVGTD6Q0vTQTnkY2foRArvtLSUkvAXA1XFE9Z0nhJKFo57ZvE8
+jq9EQOgSE4LRFUOnaxXV/BmXlzfiQhKZDa8PvcT+/2FrirFfuRVkZSECov2gzpK9
+euU1tkXYIZxqiQnldQAzwV+sEffh0kjAI9aiCmegoNOwRfa4TaNu3OWD0ppyms1P
+YUT51hPEQcS8kyPRvVlZ3zRTpEA57pBPtAZJIUwdc98zNKaFuAnf7QFIGjfklCCo
+Nxmy03wr4AfFRgUJlJK9savJtL/X4FXuaI8pRHT1DaMt6tMfOxv8R2qWouAg3K3d
+Sz1dv0VdDT12jOfeirJQex50EoUY8monpKGOMnbCfehn7daoS7FqG1uXXODyUh+R
+b1dVmkkYlmJ06zlKwSt8JOwOf4Gexo6DzX21KGDMMR1MJGj5kMzSnroK/YFq57nf
+PhI9vCAeLK29rz/NKZXO
+=8hI/
+-----END PGP SIGNATURE-----
